@@ -1,0 +1,27 @@
+# Visual Studio 2015/2017/2019/2022
+.vs/
+*.suo
+*.user
+*.log
+*.pdb
+*.db
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Rider
+.idea/
+*.csproj.user
+*.sln.DotSettings
+
+# Packages
+packages/
+*.nupkg
+.nuget/
+
+# Miscellaneous
+*/[Tt]humbs.db
+[Dd]ebugPublic/

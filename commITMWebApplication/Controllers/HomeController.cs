@@ -7,7 +7,7 @@ namespace commITMWebApplication.Controllers
     {
         public string HelloWorld()
         {
-            return "Hello World desde la nueva funcionalidad";
+            return "Este es un error desde visual studio ";
         }
     }
 }

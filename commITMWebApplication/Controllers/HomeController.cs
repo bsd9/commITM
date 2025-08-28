@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace commITMWebApplication.Controllers
 {
@@ -7,7 +6,7 @@ namespace commITMWebApplication.Controllers
     {
         public string HelloWorld()
         {
-            return "Hello World desde la nueva funcionalidad";
+            return "Nuevo mensaje desde la corrección";
         }
     }
 }

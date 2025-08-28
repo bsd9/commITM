@@ -9,4 +9,8 @@ Repositorio creado para la asigantura de despliegue de software, para realizar p
 - Fabian Jussep Rios Ferrer
 
 ## Notas
-Se adjuntan evidencias en la carpeta [evidencias](./evidencias).
+Se adjuntan **evidencias** en la carpeta [evidencias](./evidencias).
+
+## Commits
+
+![Texto alternativo](./evidencias/evidencia_commits.png)
